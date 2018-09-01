@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Smart Socket</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="host">Host</string>
+    <string name="port">Port</string>
+    <string name="status_timeout">Timeout!</string>
+    <string name="status_disconnected">Disconnected</string>
+    <string name="status_connect_error">Socket Connect Error!</string>
+    <string name="status_close_error">Socket Close Error!</string>
+    <string name="status_send_success">Send Successfully!</string>
+    <string name="status_send_fail">Send Fail!</string>
+</resources>
