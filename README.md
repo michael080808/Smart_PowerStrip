@@ -36,7 +36,7 @@
 
     Modbus RTU最大的难点在于其校验位的计算，下面给出具体方法。
 
-    提供一个可用的校验网址：[链接地址](http://cht.nahua.com.tw/index.php?url=http://cht.nahua.com.tw/software/crc16/&key=Modbus,%20RTU,%20CRC16&title=%E8%A8%88%E7%AE%97%20Modbus%20RTU%20CRC16)s
+    提供一个可用的校验网址：[链接地址](http://cht.nahua.com.tw/index.php?url=http://cht.nahua.com.tw/software/crc16/&key=Modbus,%20RTU,%20CRC16&title=%E8%A8%88%E7%AE%97%20Modbus%20RTU%20CRC16)
 
     提供一个可用的测试软件：[链接地址](http://yourplc.net/download/software/modbus_rtu/mbrtu.zip)
 
